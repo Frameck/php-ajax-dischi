@@ -1,0 +1,19 @@
+.bg-header-secondary {
+    background-color: #2b3a46;
+}
+
+header img {
+    width: 50px;
+}
+
+.pb-card {
+    min-height: 385px;
+}
+
+.bg-main-primary {
+    background-color: #192d3b;
+}
+
+.card-text {
+    color: #808078;
+}
